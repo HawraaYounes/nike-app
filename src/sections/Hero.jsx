@@ -1,8 +1,7 @@
 import React from "react";
-import Button from "../components/Button";
 import { arrowRight } from "../assets/icons";
 import { shoes, statistics } from "../constants";
-import ShoeCard from "../components/ShoeCard";
+import { ShoeCard, Button } from "../components";
 import { bigShoe1 } from "../assets/images";
 import { useState } from 'react';
 
